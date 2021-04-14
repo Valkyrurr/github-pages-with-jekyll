@@ -13,6 +13,6 @@ github_username:  Valkyrurr # DO NOT include the @ character, or else the build 
 discord_username: Valkyrurr
 stackoverflow_username: Valkyrurr
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
